@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ControlLine test check control line is render ok 1`] = `
+<div
+  className="sc-bdvvaa hIUbgN"
+>
+  <p
+    className="sc-gsDJrp esAOwv"
+  >
+    testname
+  </p>
+  <p
+    className="sc-gsDJrp esAOwv"
+  >
+    0
+  </p>
+  <p
+    className="sc-gsDJrp esAOwv"
+  >
+    0
+  </p>
+  <p
+    className="sc-gsDJrp esAOwv"
+  >
+    <svg
+      className="sc-dkPtyc XyyyE"
+      fill="none"
+      height="1em"
+      stroke="currentColor"
+      strokeWidth="0"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+      viewBox="0 0 24 24"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+      />
+    </svg>
+  </p>
+</div>
+`;

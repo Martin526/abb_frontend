@@ -21,7 +21,7 @@
 	- I used styled-components because I can create custom components with css, it has sass suport, I dont have to worry about the classes and I can use a ThemeProvider.
 	- The components are very generic, so you can easily reuse them to create show a new part.
 	- I Used Grid to accommodate the features because I think it is more scalable.
-	- I Created a 6-column table following the layout that appeared in the .pdf, but we can change this property to "auto-fill" to make it more responsive, it just one line we need to update (\src\components\featureComponent\components.tsx - line 14).
+	- I Created a 5-column table following the layout that appeared in the .pdf, but we can change this property to "auto-fill" to make it more responsive, it just one line we need to update (\src\components\featureComponent\components.tsx - line 14).
 	- I Created some Custom Hooks as controllers to separate them from the views.
 	- The backend is mocked using a timeout to simulate a request.
 	- In the file "\src\repository\part.repository.ts" there are features commented with different numbers of controls to see how the screen adapts. They can be uncommented, do not forget to refresh the application.
